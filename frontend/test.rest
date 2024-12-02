@@ -1,2 +1,0 @@
-GET https://serene-hollows-24381-e12e3cce60b1.herokuapp.com/messages/1073692445281370152/791227446849568779
-Authorization: Bot MTMxMjg3OTk3NzA0OTQ4OTUwMQ.GUtsaa.xqzjloGLMOu2LZICLegSHEFEqYahB5MaG3PkhQ
